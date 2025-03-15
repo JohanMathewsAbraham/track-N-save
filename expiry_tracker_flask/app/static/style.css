@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+form {
+    margin: 20px;
+}
+
+input {
+    display: block;
+    margin: 10px auto;
+    padding: 5px;
+}
+
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+.alert {
+    padding: 10px;
+    margin: 10px auto;
+    width: 50%;
+}
+
+.alert.success {
+    background-color: green;
+    color: white;
+}
+
+.alert.danger {
+    background-color: red;
+    color: white;
+}
+
+
