@@ -9,4 +9,6 @@ Sign in Twilio website and replace the account sid and authorized token with you
 
 https://youtu.be/UVez2UyjpFk?si=vu0DWuTXeuyB4ULY -----> video to send a trial msg to whatsapp
 
+In the templates folder, index.html is the frontend and expiry.html is the backend
+
 For automatic alerts run the app_auto.py instead of app.py, you can change the time for automatic alert to happen, in line 56 of app.auto.py
